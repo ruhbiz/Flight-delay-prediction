@@ -1,2 +1,3 @@
 # Flight-delay-prediction
-predicting flight delay for arrival and departure based on weather
+Predict flight delay for arrival and departure based on weather in both origin and destination city. 
+Using tensorflow.
